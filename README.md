@@ -1,5 +1,10 @@
 COVID-19 Global Dashboard
 
+Dashboard Preview
+
+Show Image
+
+
 Project Objective
 
 Analyze global COVID-19 data to uncover trends, identify the most affected countries, and communicate key insights through an interactive Power BI dashboard. This project was completed as part of the AnalystLab Africa Data Analytics Internship Program — Week 4.
@@ -63,6 +68,7 @@ The US, India and France recorded the highest confirmed case counts
 The US and Brazil led in total deaths
 The death trend chart clearly shows three pandemic waves — the initial outbreak in early 2020, the Delta surge in late 2021, and the Omicron peak in early 2022
 Despite the US having the most confirmed cases, Brazil had a proportionally higher death toll — suggesting differences in healthcare capacity and reporting
+The dataset tracks 201 countries and territories — not 196 — because regions like Hong Kong, Greenland and various overseas territories are reported separately from their parent countries
 
 
 
